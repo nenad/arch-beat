@@ -7,4 +7,10 @@ A Plymouth theme made for Arch Linux
 
 Clone the repo to `/usr/share/plymouth/themes` and run `# plymouth-set-default-theme -R arch-boot`
 
-## AUR (upcoming)
+## AUR
+
+[plymouth-theme-arch-beat](https://aur.archlinux.org/packages/plymouth-theme-arch-beat/)
+
+Install it with any AUR package manager:
+
+ex. `trizen -S plymouth-theme-arch-beat`
